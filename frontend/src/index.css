@@ -1,0 +1,15 @@
+#root {
+  display: flex;
+  min-width: 0;
+  height: 100vh;
+  flex-direction: column;
+}
+
+body {
+  min-height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
